@@ -11,7 +11,7 @@ public class Main {
     public static void main(String[] args) {
         // string de conexão e dados de acesso ao servidor
         String servidor = "jdbc:sqlserver://localhost:1433;databaseName=loja_de_automoveis";
-        String usuario = "sa";
+        String usuario = "Allan";
         String senha = "123";
         
         // conexão
